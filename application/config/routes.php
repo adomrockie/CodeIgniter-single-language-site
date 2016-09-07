@@ -7,6 +7,8 @@ $route['404_override'] = 'findcontent';
 $route['translate_uri_dashes'] = TRUE;
 
 $route['admin'] = 'admin/dashboard';
+$route['login'] = 'auth/login';
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
